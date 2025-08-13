@@ -11,9 +11,9 @@
 /* LAYOUT
 /*******************************************/
 img{
-  display: block;
-  margin: 0 auto;
-  height: 500px;
+  /* display: block;
+  margin: 0 auto; */
+  height: 100px;
 }
 
 
@@ -24,4 +24,11 @@ img{
 h3 {
   width: 50%;
   margin: auto;
+}
+
+h1,
+h2,
+label,
+p {
+  margin: 20px;
 }
